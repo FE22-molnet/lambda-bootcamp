@@ -18,6 +18,8 @@ https://atj0pr0sitjwrhg5k53jf5a0ltyse.lambda-url.eu-north-1.on.aws/
 Hejsan hallå, din snea tå!
 ```
 
+1.2 Skapa en funktion som returnerar event och kolla vad som finns är i.
+
 2. Skapa en funktion som vid anrop returnerar vilken route du än anger.
 
 ```
